@@ -28,6 +28,7 @@ body{
     font-weight: 600 !important;
     text-transform: inherit !important;
     color: #ff7779 !important;
+    border-radius: 0 !important;
 }
 
 .banner__info > button {
